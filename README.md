@@ -1,2 +1,3 @@
-# Simok99.github.io
-Personal Webpage
+# Personal Webpage
+
+With Github, Linkedin, Telegram and email contacts
